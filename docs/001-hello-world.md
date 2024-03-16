@@ -86,7 +86,7 @@ Afortunadamente, las acciones de GitHub ofrecen una manera mucho mejor de maneja
 
 ### 2.1 - Añade una accion en tu workflow
 
-Comencemos utilizando una de las acciones más básicas pero comúnmente utilizadas para obtener una comprensión: la acción de 'actions/checkout`:
+Comencemos utilizando una de las acciones más básicas pero comúnmente utilizadas: la acción de 'actions/checkout`:
 
 1. En su editor, navegue a la pestaña `Código`, luego a` .github/workflows/hello-world.yml`, y luego haga clic en el pequeño icono de lápiz en la esquina superior derecha para reabrir el editor.
 2. Agregue los siguientes pasos al trabajo existente:
