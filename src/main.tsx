@@ -18,3 +18,5 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+# Haga clic en ./src/main.tsx, y edite el archivo (por ejemplo, agregue un comentario).
