@@ -2,6 +2,8 @@ name: Hello World Innotech
 
 on:
   workflow_dispatch:
+  issues:
+    types: [opened, edited]
 
 jobs:
   greet:
