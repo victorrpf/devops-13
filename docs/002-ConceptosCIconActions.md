@@ -122,7 +122,7 @@ Al configurar CI para su proyecto, es común proporcionar información adicional
 
 Hacerlo es sencillo con GitHub Actions. Puedes determinar dónde y cuándo debe realizarse una tarea específica y luego buscar un `Action` adecuada en [GitHub Marketplace](https://github.com/marketplace?category=&query=&type=actions&verification=).
 
-### 3.1 - Encuentra una acción en el mercado
+### 3.1 - Encuentra una acción en el Marketplace
 
 1. Busque un Action en  GitHub Marketplace:  `vitest coverage report`
   ![Search Result for "Vitest Test Coverage" in the GitHub Marketplace](./images/marketplace-vitest-search-result.png)
