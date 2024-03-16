@@ -217,7 +217,7 @@ jobs:
 
 </details>
 
-### 3.5 - Crear una nueva solicitud de extracción
+### 3.5 - Crear una nueva Pull Request
 
 1. Vaya a la página principal del repositorio.
 
